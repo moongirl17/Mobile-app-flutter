@@ -2,6 +2,10 @@
 
 A new Flutter project.
 
+login app
+"email": "admin@gmail.com",
+"password": "123456"
+
 ## Getting Started
 
 This project is a starting point for a Flutter application.
