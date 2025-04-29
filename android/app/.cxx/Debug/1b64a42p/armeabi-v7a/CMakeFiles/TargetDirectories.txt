@@ -1,0 +1,2 @@
+/Users/niki/Documents/Bootcamp/Batch 6/flutter-batch-6-project/android/app/.cxx/Debug/1b64a42p/armeabi-v7a/CMakeFiles/edit_cache.dir
+/Users/niki/Documents/Bootcamp/Batch 6/flutter-batch-6-project/android/app/.cxx/Debug/1b64a42p/armeabi-v7a/CMakeFiles/rebuild_cache.dir
